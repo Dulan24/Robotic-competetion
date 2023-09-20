@@ -11,6 +11,10 @@ This repository contains code and documentation for this robot designed for a se
 The robot excels at tracking a white line on a black surface, handling both straight and curved paths with precision. IR sensors have been used to track the white line using PID.
 
 
+https://github.com/Dulan24/Robotic-competetion/assets/90098230/4d84f789-ad03-4a4f-8bdb-012742403a86
+
+
+
 
 
 
