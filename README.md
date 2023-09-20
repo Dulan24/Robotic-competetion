@@ -10,7 +10,7 @@ This repository contains code and documentation for this robot designed for a se
 
 The robot excels at tracking a white line on a black surface, handling both straight and curved paths with precision. IR sensors have been used to track the white line using PID.
 
-https://github.com/Dulan24/Robotic-competetion/assets/90098230/bc1fa9a8-709e-4007-ac41-3b5fe5311b53
+
 
 
 
@@ -20,7 +20,6 @@ https://github.com/Dulan24/Robotic-competetion/assets/90098230/bc1fa9a8-709e-400
 The robot demonstrates its agility by following segmented walls, whether straight, curved, or a combination of both. Ultrasonic sensors have been used to achieve this task.
 
 
-https://github.com/Dulan24/Robotic-competetion/assets/90098230/839ba2c0-c956-4097-8e75-223454c7b549
 
 
 
@@ -30,7 +29,6 @@ https://github.com/Dulan24/Robotic-competetion/assets/90098230/839ba2c0-c956-409
 After mastering wall-following, the robot faces the colored dotted line challenge. It must choose the correct path based on a random color assignment. This path may feature straight and curved dotted lines, leading to the chessboard area.
 
 
-https://github.com/Dulan24/Robotic-competetion/assets/90098230/962ca6d5-840d-4159-9f24-ae0efb64e3f8
 
 
 
