@@ -10,17 +10,42 @@ This repository contains code and documentation for this robot designed for a se
 
 The robot excels at tracking a white line on a black surface, handling both straight and curved paths with precision. IR sensors have been used to track the white line using PID.
 
+https://github.com/Dulan24/Robotic-competetion/assets/90098230/bc1fa9a8-709e-4007-ac41-3b5fe5311b53
+
+
+
+
 ### Task 2: Segmented Wall Following
 
 The robot demonstrates its agility by following segmented walls, whether straight, curved, or a combination of both. Ultrasonic sensors have been used to achieve this task.
+
+
+https://github.com/Dulan24/Robotic-competetion/assets/90098230/839ba2c0-c956-4097-8e75-223454c7b549
+
+
+
 
 ### Task 3: Dotted Line Following
 
 After mastering wall-following, the robot faces the colored dotted line challenge. It must choose the correct path based on a random color assignment. This path may feature straight and curved dotted lines, leading to the chessboard area.
 
+
+https://github.com/Dulan24/Robotic-competetion/assets/90098230/962ca6d5-840d-4159-9f24-ae0efb64e3f8
+
+
+
+
+
 ### Task 4: Chess Board Challenge
 
 In this challenge, the robot becomes a black rook in a chess game. Its mission is to deliver checkmate in just one move and unlock the secret chamber door. The robot starts on the a7 square, parallel to the rows of the chessboard. It must select the black rook on the a7 square and find the checkmate move, using no prior knowledge of the game's position.
+
+
+https://github.com/Dulan24/Robotic-competetion/assets/90098230/55ca310c-75db-499b-9fbd-5f3bb37ac994
+
+
+
+
 
 Once the robot identifies the checkmating square, it places the rook, opens the chamber door, and collects two boxes from inside. The red carpet area remains off-limits until checkmate is achieved. Afterward, the robot is free to navigate the entire chessboard without colliding with other pieces.
 
